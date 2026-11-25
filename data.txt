@@ -1,0 +1,11 @@
+FastAPI is a Python web framework used to build APIs quickly. It uses Pydantic for data validation.
+
+Uvicorn is a server that runs FastAPI applications. The command uvicorn main:app --reload starts the server.
+
+SQLAlchemy is a Python library that lets you work with databases using Python code instead of raw SQL.
+
+SQLite is a small database stored in a single file. It is good for learning and small projects.
+
+CRUD stands for Create, Read, Update and Delete. These are the four basic operations on data.
+
+Git is a tool to track code changes. GitHub is a website where you store Git repositories online.
