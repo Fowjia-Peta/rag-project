@@ -51,5 +51,12 @@ json
 }
 
 
+## Status
+- Retrieval working (embeddings + similarity search)
+- Gemini LLM integrated (gemini-3.5-flash) via FastAPI /ask endpoint
+
 ## Next Steps
-- Connect an LLM to generate natural-language answers from the prompt
+- Add more documents to the knowledge base
+- Improve chunking and retrieval quality
+- Add a simple web UI
+- Deploy the API online
